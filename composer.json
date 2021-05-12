@@ -1,0 +1,22 @@
+{
+    "name": "laszlopalvoelgyi/mongodb",
+    "description": "MongoDB Class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "laszlopalvoelgyi",
+            "email": "l.palvoelgyi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laszlopalvoelgyi/helper": "^1",
+        "mongodb/mongodb": "v1.8.x-dev"
+    },
+    "autoload": {
+      "psr-4": {
+        "Palvoelgyi\\Mongo\\": "src/"
+      }
+    }
+}
