@@ -1,11 +1,11 @@
 {
-    "name": "laszlopalvoelgyi/mongodb",
+    "name": "palvoelgyilaszlo/mongodb",
     "description": "MongoDB Class",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "laszlopalvoelgyi",
+            "name": "palvoelgyilaszlo",
             "email": "l.palvoelgyi@gmail.com"
         }
     ],
