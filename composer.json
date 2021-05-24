@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "laszlopalvoelgyi/helper": "^1",
-        "mongodb/mongodb": "v1.8.x-dev"
+        "mongodb/mongodb": "@dev"
     },
     "autoload": {
       "psr-4": {
