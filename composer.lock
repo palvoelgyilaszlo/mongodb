@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1fa1c8a29211d10332c214bbe7565f37",
+    "content-hash": "c6718f8d90e0450ccbf8c4d17280bfd9",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/package-versions-deprecated.git",
-                "reference": "f921205948ab93bb19f86327c793a81edb62f236"
+                "reference": "c6522afe5540d5fc46675043d3ed5a45a740b27c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/package-versions-deprecated/zipball/f921205948ab93bb19f86327c793a81edb62f236",
-                "reference": "f921205948ab93bb19f86327c793a81edb62f236",
+                "url": "https://api.github.com/repos/composer/package-versions-deprecated/zipball/c6522afe5540d5fc46675043d3ed5a45a740b27c",
+                "reference": "c6522afe5540d5fc46675043d3ed5a45a740b27c",
                 "shasum": ""
             },
             "require": {
@@ -62,7 +62,7 @@
             "description": "Composer plugin that provides efficient querying for installed package versions (no runtime IO)",
             "support": {
                 "issues": "https://github.com/composer/package-versions-deprecated/issues",
-                "source": "https://github.com/composer/package-versions-deprecated/tree/master"
+                "source": "https://github.com/composer/package-versions-deprecated/tree/1.11.99.2"
             },
             "funding": [
                 {
@@ -78,7 +78,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-12-27T20:11:05+00:00"
+            "time": "2021-05-24T07:46:03+00:00"
         },
         {
             "name": "jean85/pretty-package-versions",
@@ -138,16 +138,16 @@
         },
         {
             "name": "laszlopalvoelgyi/helper",
-            "version": "v1.0.5",
+            "version": "v1.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/palvoelgyilaszlo/helper.git",
-                "reference": "511b56018f19e0696414c2dfa0b3127fe17f84f0"
+                "reference": "979eb7c35b719900f6a53c73958b997b49ac9f70"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/palvoelgyilaszlo/helper/zipball/511b56018f19e0696414c2dfa0b3127fe17f84f0",
-                "reference": "511b56018f19e0696414c2dfa0b3127fe17f84f0",
+                "url": "https://api.github.com/repos/palvoelgyilaszlo/helper/zipball/979eb7c35b719900f6a53c73958b997b49ac9f70",
+                "reference": "979eb7c35b719900f6a53c73958b997b49ac9f70",
                 "shasum": ""
             },
             "type": "library",
@@ -169,9 +169,9 @@
             "description": "help for php programming",
             "support": {
                 "issues": "https://github.com/palvoelgyilaszlo/helper/issues",
-                "source": "https://github.com/palvoelgyilaszlo/helper/tree/v1.0.5"
+                "source": "https://github.com/palvoelgyilaszlo/helper/tree/v1.0.6"
             },
-            "time": "2021-05-11T12:36:07+00:00"
+            "time": "2021-05-17T07:34:45+00:00"
         },
         {
             "name": "mongodb/mongodb",
@@ -179,12 +179,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/mongodb/mongo-php-library.git",
-                "reference": "027134d41564aef94dbb13ed092802521bca4343"
+                "reference": "fb40a938d654564a0886e2cac524886a7e982cb0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mongodb/mongo-php-library/zipball/027134d41564aef94dbb13ed092802521bca4343",
-                "reference": "027134d41564aef94dbb13ed092802521bca4343",
+                "url": "https://api.github.com/repos/mongodb/mongo-php-library/zipball/fb40a938d654564a0886e2cac524886a7e982cb0",
+                "reference": "fb40a938d654564a0886e2cac524886a7e982cb0",
                 "shasum": ""
             },
             "require": {
@@ -239,7 +239,7 @@
                 "issues": "https://github.com/mongodb/mongo-php-library/issues",
                 "source": "https://github.com/mongodb/mongo-php-library/tree/v1.8"
             },
-            "time": "2021-03-31T12:22:27+00:00"
+            "time": "2021-05-18T16:15:35+00:00"
         },
         {
             "name": "symfony/polyfill-php80",
@@ -336,5 +336,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.1.0"
 }
